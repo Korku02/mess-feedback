@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/korku02/.android/build-cache/d58bab6eaca0f8b817614b16765170c3a9c9d52b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/korku02/AndroidStudioProjects/MessFeedback/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_05943a3df25e1169f1ef5710472d795fa49c2f76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/korku02/.android/build-cache/45c10220f5934c0ea0b2c95cdf0b5d756cf3533a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/korku02/AndroidStudioProjects/MessFeedback/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_253a1344aa5192575bd9c5f98275fb7a593c5bab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/korku02/.android/build-cache/f1de15a618fe41b0685b49cc143e4d0d316397b7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/korku02/AndroidStudioProjects/MessFeedback/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1008c566429a2a76d51f4a026812c297df232dda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/korku02/.android/build-cache/397b0ac0007f6ebe3c755868c18e3f010b2e98b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/korku02/AndroidStudioProjects/MessFeedback/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d223cf6179d59a301b90be1112daa2f1be431836/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/korku02/.android/build-cache/0fe4c934c5ce4094378a81ae9817bf87f056486b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/korku02/AndroidStudioProjects/MessFeedback/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_312a88d599edb1f576c2e1787d437912a868f305/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/korku02/.android/build-cache/9133c6973fd6e4e5c8a35f7dc0104ceab6486b9b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/korku02/AndroidStudioProjects/MessFeedback/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33d1be69b0da57049457fa8d618722758ef00ac0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/korku02/.android/build-cache/e6a904383501acea66ce4ff97b90d6628cb62a1a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/korku02/AndroidStudioProjects/MessFeedback/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c0f696986f40258bcd2c19f0ae82364deefa76b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/korku02/AndroidStudioProjects/MessFeedback/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/korku02/AndroidStudioProjects/MessFeedback/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4360716a0b92624eab78ad4fd8802ca224748fd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/korku02/.android/build-cache/6b545004ca5b972568fe91f9263350861580525e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/korku02/AndroidStudioProjects/MessFeedback/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8bf6dc5085085cda15553f09e6ea6f24faddb596/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/korku02/.android/build-cache/9e719e7cfa355e38c434594f3a972801942676cc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/korku02/AndroidStudioProjects/MessFeedback/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1003d17e874edd3a3e936b8e693e2bde479f2c22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/korku02/.android/build-cache/d11a710561a720ce3008349d83c118b0c6a01735/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/korku02/AndroidStudioProjects/MessFeedback/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a274cac67d510bef31fb5db7a55a017792ae3ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/korku02/AndroidStudioProjects/MessFeedback/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a935fa64272bd411ddb97564b747cdb2bf715cdc">
+        <dex dex="/Users/korku02/AndroidStudioProjects/MessFeedback/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7d245cf43af99cad051ec0d95646a5e9fd716da5/classes.dex" />
+    </item>
+
+</items>
